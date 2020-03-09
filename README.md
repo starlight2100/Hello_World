@@ -1,2 +1,3 @@
 # Hello_World
-learning exercises
+
+Learning exercises in python initialy.
